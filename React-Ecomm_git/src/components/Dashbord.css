@@ -1,0 +1,8 @@
+.anchor:active{
+    color: aqua;
+}
+
+.anchor:hover{
+    background-color:green;
+    color:white
+}
